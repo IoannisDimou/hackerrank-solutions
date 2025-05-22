@@ -2,7 +2,7 @@ package hackerrank.solutions.javapractice;
 
 import java.util.Scanner;
 
-public class JavaIfElse {
+public class IfElse {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
